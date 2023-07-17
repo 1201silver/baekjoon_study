@@ -20,7 +20,6 @@ public class b11653 {
 				n /= i;
 				System.out.println(i);
 			}
-			
 		}
 	}
 
