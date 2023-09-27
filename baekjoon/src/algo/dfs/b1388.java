@@ -28,6 +28,7 @@ public class b1388 {
 		
 		for(int i = 0; i < n; i++) {
 			String s = br.readLine();
+			
 			for(int j = 0; j < m; j++) {
 				floor[i][j] = s.charAt(j);
 			}
