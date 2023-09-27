@@ -41,7 +41,6 @@ public class b6148 {
 			int sum = 0;
 			for(int i = 0; i < n; i++) {
 				if(visit[i]) {
-//					System.out.print(height[i] + " ");
 					sum += height[i];
 				}
 			}
@@ -53,7 +52,6 @@ public class b6148 {
 					if(h < min) min = h;
 				}
 			}
-//			System.out.println();
 			
 		} else {
 			visit[num] = true;
