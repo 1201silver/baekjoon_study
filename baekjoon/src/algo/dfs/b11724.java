@@ -38,6 +38,7 @@ public class b11724 {
 		for(int i = 1; i <= n; i++) {
 			if(!vertex[i]) {
 				dfs(i);
+				
 				cnt++;
 			}
 		}
