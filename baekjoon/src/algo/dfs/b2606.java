@@ -35,12 +35,14 @@ public class b2606 {
 		}
 		
 		dfs(1);
+		
 		System.out.println(cnt - 1);
 	}
 	
 	static void dfs(int com) {
 		
 		visited[com] = true;
+		
 		cnt++;
 		
 		for(int i = 1; i <= num; i++) {
@@ -48,7 +50,5 @@ public class b2606 {
 				dfs(i);
 			}
 		}
-		
 	}
-
 }
