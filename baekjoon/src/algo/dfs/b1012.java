@@ -46,6 +46,7 @@ public class b1012 {
 			
 				int x = Integer.parseInt(st.nextToken());
 				int y = Integer.parseInt(st.nextToken());
+				
 				map[x][y] = 1;
 			}
 			
