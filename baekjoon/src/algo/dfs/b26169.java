@@ -26,6 +26,7 @@ public class b26169 {
 		
 		for(int i = 0; i < SIZE; i++) {
 			st = new StringTokenizer(br.readLine());
+			
 			for(int j = 0; j < SIZE; j++) {
 				board[i][j] = Integer.parseInt(st.nextToken());	
 			}
@@ -54,7 +55,6 @@ public class b26169 {
 			if(apple >= 2) {
 				result = 1;
 			}
-			
 			return;	
 		} 
 		
@@ -70,6 +70,5 @@ public class b26169 {
 			
 			board[r][c] = 0;
 		}
-		
 	}
 }
