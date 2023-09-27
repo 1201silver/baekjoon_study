@@ -26,6 +26,7 @@ public class b16173 {
 		
 		for(int i = 0; i < n; i++) {
 			st = new StringTokenizer(br.readLine());
+			
 			for(int j = 0; j < n; j++) {
 				jump[i][j] = Integer.parseInt(st.nextToken());
 			}
@@ -70,6 +71,5 @@ public class b16173 {
 			}
 		}
 		*/
-	
 	}
 }
