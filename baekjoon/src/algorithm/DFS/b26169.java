@@ -1,4 +1,4 @@
-package algo.DFS;
+package algorithm.DFS;
 
 import java.io.BufferedReader;
 import java.io.IOException;
