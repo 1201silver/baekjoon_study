@@ -1,4 +1,4 @@
-package algorithm.BinarySearch;
+package algo.BinarySearch;
 
 public class b1920 {
 
