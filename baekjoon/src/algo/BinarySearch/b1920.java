@@ -1,6 +1,6 @@
-package algo.bfs;
+package algo.BinarySearch;
 
-public class b16173 {
+public class b1920 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
