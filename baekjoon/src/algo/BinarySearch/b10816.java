@@ -73,5 +73,4 @@ public class b10816 {
 		
 		return right;
 	}
-
 }
