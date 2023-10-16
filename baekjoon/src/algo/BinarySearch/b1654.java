@@ -52,5 +52,4 @@ public class b1654 {
 			return search(mid + 1, right);
 		}
 	}
-
 }
